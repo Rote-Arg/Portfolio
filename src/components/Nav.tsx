@@ -1,3 +1,5 @@
+import { RiEnglishInput } from "react-icons/ri";
+
 export default function Nav() {
   return (
     <>
@@ -5,6 +7,7 @@ export default function Nav() {
         <a href="">Sobre mi</a>
         <a href="">CV</a>
         <a href="">Contacto</a>
+        <RiEnglishInput/>
       </nav>
     </>
   )
